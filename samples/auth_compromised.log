@@ -1,0 +1,9 @@
+2026-09-17T06:10:00-04:00 ubuntu-VMware20-1 sshd[22000]: Failed password for admin from 203.0.113.66 port 50000 ssh2
+2026-09-17T06:10:02-04:00 ubuntu-VMware20-1 sshd[22001]: Failed password for admin from 203.0.113.66 port 50001 ssh2
+2026-09-17T06:10:04-04:00 ubuntu-VMware20-1 sshd[22002]: Failed password for admin from 203.0.113.66 port 50002 ssh2
+2026-09-17T06:10:06-04:00 ubuntu-VMware20-1 sshd[22003]: Failed password for admin from 203.0.113.66 port 50003 ssh2
+2026-09-17T06:10:08-04:00 ubuntu-VMware20-1 sshd[22004]: Failed password for admin from 203.0.113.66 port 50004 ssh2
+2026-09-17T06:10:10-04:00 ubuntu-VMware20-1 sshd[22005]: Failed password for admin from 203.0.113.66 port 50005 ssh2
+2026-09-17T06:10:12-04:00 ubuntu-VMware20-1 sshd[22006]: Failed password for admin from 203.0.113.66 port 50006 ssh2
+2026-09-17T06:10:14-04:00 ubuntu-VMware20-1 sshd[22007]: Failed password for admin from 203.0.113.66 port 50007 ssh2
+2026-09-17T06:10:16-04:00 ubuntu-VMware20-1 sshd[22999]: Accepted password for admin from 203.0.113.66 port 50999 ssh2

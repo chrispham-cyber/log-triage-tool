@@ -1,0 +1,22 @@
+2026-09-17T04:20:05-04:00 ubuntu-VMware20-1 sshd[9012]: Accepted publickey for ubuntu from 192.168.3.1 port 51000 ssh2: ED25519 SHA256:abc
+2026-09-17T04:23:05-04:00 ubuntu-VMware20-1 sshd[9012]: Accepted publickey for ubuntu from 192.168.3.1 port 51000 ssh2: ED25519 SHA256:abc
+2026-09-17T05:00:19-04:00 ubuntu-VMware20-1 sshd[13000]: Failed password for ubuntu from 192.168.3.135 port 41000 ssh2
+2026-09-17T05:00:20-04:00 ubuntu-VMware20-1 sshd[13001]: Failed password for ubuntu from 192.168.3.135 port 41001 ssh2
+2026-09-17T05:00:21-04:00 ubuntu-VMware20-1 sshd[13002]: Failed password for ubuntu from 192.168.3.135 port 41002 ssh2
+2026-09-17T05:00:22-04:00 ubuntu-VMware20-1 sshd[13003]: Failed password for ubuntu from 192.168.3.135 port 41003 ssh2
+2026-09-17T05:00:23-04:00 ubuntu-VMware20-1 sshd[13004]: Failed password for ubuntu from 192.168.3.135 port 41004 ssh2
+2026-09-17T05:00:24-04:00 ubuntu-VMware20-1 sshd[13005]: Failed password for ubuntu from 192.168.3.135 port 41005 ssh2
+2026-09-17T05:00:25-04:00 ubuntu-VMware20-1 sshd[13006]: Failed password for ubuntu from 192.168.3.135 port 41006 ssh2
+2026-09-17T05:00:26-04:00 ubuntu-VMware20-1 sshd[13007]: Failed password for ubuntu from 192.168.3.135 port 41007 ssh2
+2026-09-17T05:00:27-04:00 ubuntu-VMware20-1 sshd[13008]: Failed password for ubuntu from 192.168.3.135 port 41008 ssh2
+2026-09-17T05:00:28-04:00 ubuntu-VMware20-1 sshd[13009]: Failed password for ubuntu from 192.168.3.135 port 41009 ssh2
+2026-09-17T05:00:29-04:00 ubuntu-VMware20-1 sshd[13010]: Failed password for ubuntu from 192.168.3.135 port 41010 ssh2
+2026-09-17T05:00:30-04:00 ubuntu-VMware20-1 sshd[13011]: Failed password for ubuntu from 192.168.3.135 port 41011 ssh2
+2026-09-17T05:00:31-04:00 ubuntu-VMware20-1 sshd[13012]: Failed password for ubuntu from 192.168.3.135 port 41012 ssh2
+2026-09-17T05:00:32-04:00 ubuntu-VMware20-1 sshd[13013]: Failed password for ubuntu from 192.168.3.135 port 41013 ssh2
+2026-09-17T05:00:33-04:00 ubuntu-VMware20-1 sshd[13014]: Failed password for ubuntu from 192.168.3.135 port 41014 ssh2
+2026-09-17T05:00:34-04:00 ubuntu-VMware20-1 sshd[13015]: Failed password for ubuntu from 192.168.3.135 port 41015 ssh2
+2026-09-17T05:00:35-04:00 ubuntu-VMware20-1 sshd[13016]: Failed password for ubuntu from 192.168.3.135 port 41016 ssh2
+2026-09-17T05:00:36-04:00 ubuntu-VMware20-1 sshd[13017]: Failed password for ubuntu from 192.168.3.135 port 41017 ssh2
+2026-09-17T05:00:37-04:00 ubuntu-VMware20-1 sshd[13018]: Failed password for ubuntu from 192.168.3.135 port 41018 ssh2
+2026-09-17T05:00:38-04:00 ubuntu-VMware20-1 sshd[13019]: Failed password for ubuntu from 192.168.3.135 port 41019 ssh2
