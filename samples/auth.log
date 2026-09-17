@@ -1,22 +1,56 @@
-2026-09-17T04:20:05-04:00 ubuntu-VMware20-1 sshd[9012]: Accepted publickey for ubuntu from 192.168.3.1 port 51000 ssh2: ED25519 SHA256:abc
-2026-09-17T04:23:05-04:00 ubuntu-VMware20-1 sshd[9012]: Accepted publickey for ubuntu from 192.168.3.1 port 51000 ssh2: ED25519 SHA256:abc
-2026-09-17T05:00:19-04:00 ubuntu-VMware20-1 sshd[13000]: Failed password for ubuntu from 192.168.3.135 port 41000 ssh2
-2026-09-17T05:00:20-04:00 ubuntu-VMware20-1 sshd[13001]: Failed password for ubuntu from 192.168.3.135 port 41001 ssh2
-2026-09-17T05:00:21-04:00 ubuntu-VMware20-1 sshd[13002]: Failed password for ubuntu from 192.168.3.135 port 41002 ssh2
-2026-09-17T05:00:22-04:00 ubuntu-VMware20-1 sshd[13003]: Failed password for ubuntu from 192.168.3.135 port 41003 ssh2
-2026-09-17T05:00:23-04:00 ubuntu-VMware20-1 sshd[13004]: Failed password for ubuntu from 192.168.3.135 port 41004 ssh2
-2026-09-17T05:00:24-04:00 ubuntu-VMware20-1 sshd[13005]: Failed password for ubuntu from 192.168.3.135 port 41005 ssh2
-2026-09-17T05:00:25-04:00 ubuntu-VMware20-1 sshd[13006]: Failed password for ubuntu from 192.168.3.135 port 41006 ssh2
-2026-09-17T05:00:26-04:00 ubuntu-VMware20-1 sshd[13007]: Failed password for ubuntu from 192.168.3.135 port 41007 ssh2
-2026-09-17T05:00:27-04:00 ubuntu-VMware20-1 sshd[13008]: Failed password for ubuntu from 192.168.3.135 port 41008 ssh2
-2026-09-17T05:00:28-04:00 ubuntu-VMware20-1 sshd[13009]: Failed password for ubuntu from 192.168.3.135 port 41009 ssh2
-2026-09-17T05:00:29-04:00 ubuntu-VMware20-1 sshd[13010]: Failed password for ubuntu from 192.168.3.135 port 41010 ssh2
-2026-09-17T05:00:30-04:00 ubuntu-VMware20-1 sshd[13011]: Failed password for ubuntu from 192.168.3.135 port 41011 ssh2
-2026-09-17T05:00:31-04:00 ubuntu-VMware20-1 sshd[13012]: Failed password for ubuntu from 192.168.3.135 port 41012 ssh2
-2026-09-17T05:00:32-04:00 ubuntu-VMware20-1 sshd[13013]: Failed password for ubuntu from 192.168.3.135 port 41013 ssh2
-2026-09-17T05:00:33-04:00 ubuntu-VMware20-1 sshd[13014]: Failed password for ubuntu from 192.168.3.135 port 41014 ssh2
-2026-09-17T05:00:34-04:00 ubuntu-VMware20-1 sshd[13015]: Failed password for ubuntu from 192.168.3.135 port 41015 ssh2
-2026-09-17T05:00:35-04:00 ubuntu-VMware20-1 sshd[13016]: Failed password for ubuntu from 192.168.3.135 port 41016 ssh2
-2026-09-17T05:00:36-04:00 ubuntu-VMware20-1 sshd[13017]: Failed password for ubuntu from 192.168.3.135 port 41017 ssh2
-2026-09-17T05:00:37-04:00 ubuntu-VMware20-1 sshd[13018]: Failed password for ubuntu from 192.168.3.135 port 41018 ssh2
-2026-09-17T05:00:38-04:00 ubuntu-VMware20-1 sshd[13019]: Failed password for ubuntu from 192.168.3.135 port 41019 ssh2
+2026-09-17T03:04:48.489892-04:00 ubuntu-VMware20-1 sshd-session[5016]: Accepted password for ubuntu from 192.168.3.1 port 50022 ssh2
+2026-09-17T03:13:10.377083-04:00 ubuntu-VMware20-1 sshd-session[6495]: Accepted password for ubuntu from 192.168.3.1 port 50123 ssh2
+2026-09-17T03:42:38.724743-04:00 ubuntu-VMware20-1 sshd-session[19322]: Accepted publickey for ubuntu from 192.168.3.1 port 51161 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:42:57.492709-04:00 ubuntu-VMware20-1 sshd-session[19813]: Accepted publickey for ubuntu from 192.168.3.1 port 51168 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:43:09.936382-04:00 ubuntu-VMware20-1 sshd-session[19894]: Accepted publickey for ubuntu from 192.168.3.1 port 51175 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:43:51.220450-04:00 ubuntu-VMware20-1 sshd-session[20005]: Accepted publickey for ubuntu from 192.168.3.1 port 51196 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:45:18.882762-04:00 ubuntu-VMware20-1 sshd-session[20139]: Accepted publickey for ubuntu from 192.168.3.1 port 51222 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:45:46.758054-04:00 ubuntu-VMware20-1 sshd-session[20180]: Accepted publickey for ubuntu from 192.168.3.1 port 51234 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:46:31.165511-04:00 ubuntu-VMware20-1 sshd-session[20219]: Accepted publickey for ubuntu from 192.168.3.1 port 51250 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:47:14.316302-04:00 ubuntu-VMware20-1 sshd-session[20627]: Accepted publickey for ubuntu from 192.168.3.1 port 51264 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:47:32.351916-04:00 ubuntu-VMware20-1 sshd-session[20675]: Accepted publickey for ubuntu from 192.168.3.1 port 51267 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:48:06.809633-04:00 ubuntu-VMware20-1 sshd-session[20721]: Accepted publickey for ubuntu from 192.168.3.1 port 51276 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:48:44.507221-04:00 ubuntu-VMware20-1 sshd-session[20779]: Accepted publickey for ubuntu from 192.168.3.1 port 51285 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:48:54.831856-04:00 ubuntu-VMware20-1 sshd-session[20819]: Accepted publickey for ubuntu from 192.168.3.1 port 51292 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:49:24.094879-04:00 ubuntu-VMware20-1 sshd-session[20860]: Accepted publickey for ubuntu from 192.168.3.1 port 51299 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:50:04.879374-04:00 ubuntu-VMware20-1 sshd-session[20907]: Accepted publickey for ubuntu from 192.168.3.1 port 51310 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:50:42.796891-04:00 ubuntu-VMware20-1 sshd-session[20950]: Accepted publickey for ubuntu from 192.168.3.1 port 51318 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:50:56.022091-04:00 ubuntu-VMware20-1 sshd-session[20990]: Accepted publickey for ubuntu from 192.168.3.1 port 51319 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:51:44.211173-04:00 ubuntu-VMware20-1 sshd-session[23157]: Accepted publickey for ubuntu from 192.168.3.1 port 51346 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:52:15.268429-04:00 ubuntu-VMware20-1 sshd-session[23208]: Accepted publickey for ubuntu from 192.168.3.1 port 51359 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:52:41.522936-04:00 ubuntu-VMware20-1 sshd-session[23253]: Accepted publickey for ubuntu from 192.168.3.1 port 51367 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:53:05.083124-04:00 ubuntu-VMware20-1 sshd-session[23302]: Accepted publickey for ubuntu from 192.168.3.1 port 51375 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T03:58:22.733366-04:00 ubuntu-VMware20-1 sshd-session[83369]: Accepted publickey for ubuntu from 192.168.3.1 port 51465 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T04:16:17.608286-04:00 ubuntu-VMware20-1 sshd-session[85839]: Accepted publickey for ubuntu from 192.168.3.1 port 51806 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T04:24:00.891562-04:00 ubuntu-VMware20-1 sshd-session[85981]: Accepted publickey for ubuntu from 192.168.3.1 port 51944 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T04:24:24.337982-04:00 ubuntu-VMware20-1 sshd-session[86030]: Accepted publickey for ubuntu from 192.168.3.1 port 51954 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T04:24:42.036198-04:00 ubuntu-VMware20-1 sshd-session[86085]: Accepted publickey for ubuntu from 192.168.3.1 port 51959 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T04:26:58.310510-04:00 ubuntu-VMware20-1 sshd-session[86467]: Accepted publickey for ubuntu from 192.168.3.1 port 52052 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T04:45:53.742786-04:00 ubuntu-VMware20-1 sshd-session[86978]: Accepted publickey for ubuntu from 192.168.3.1 port 52388 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T04:48:08.730237-04:00 ubuntu-VMware20-1 sshd-session[87031]: Accepted publickey for ubuntu from 192.168.3.1 port 52423 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T04:49:11.806976-04:00 ubuntu-VMware20-1 sshd-session[87079]: Accepted publickey for ubuntu from 192.168.3.1 port 52439 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T04:49:47.637239-04:00 ubuntu-VMware20-1 sshd-session[89165]: Accepted publickey for ubuntu from 192.168.3.1 port 52451 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T05:00:21.364370-04:00 ubuntu-VMware20-1 sshd-session[90652]: Failed password for ubuntu from 192.168.3.135 port 35522 ssh2
+2026-09-17T05:00:21.458456-04:00 ubuntu-VMware20-1 sshd-session[90651]: Failed password for ubuntu from 192.168.3.135 port 35520 ssh2
+2026-09-17T05:00:21.921930-04:00 ubuntu-VMware20-1 sshd-session[90650]: Failed password for ubuntu from 192.168.3.135 port 35526 ssh2
+2026-09-17T05:00:22.214557-04:00 ubuntu-VMware20-1 sshd-session[90653]: Failed password for ubuntu from 192.168.3.135 port 35524 ssh2
+2026-09-17T05:00:24.703255-04:00 ubuntu-VMware20-1 sshd-session[90652]: Failed password for ubuntu from 192.168.3.135 port 35522 ssh2
+2026-09-17T05:00:25.101936-04:00 ubuntu-VMware20-1 sshd-session[90651]: Failed password for ubuntu from 192.168.3.135 port 35520 ssh2
+2026-09-17T05:00:26.573654-04:00 ubuntu-VMware20-1 sshd-session[90650]: Failed password for ubuntu from 192.168.3.135 port 35526 ssh2
+2026-09-17T05:00:27.361023-04:00 ubuntu-VMware20-1 sshd-session[90653]: Failed password for ubuntu from 192.168.3.135 port 35524 ssh2
+2026-09-17T05:00:27.697377-04:00 ubuntu-VMware20-1 sshd-session[90652]: Failed password for ubuntu from 192.168.3.135 port 35522 ssh2
+2026-09-17T05:00:29.556036-04:00 ubuntu-VMware20-1 sshd-session[90650]: Failed password for ubuntu from 192.168.3.135 port 35526 ssh2
+2026-09-17T05:00:30.314910-04:00 ubuntu-VMware20-1 sshd-session[90651]: Failed password for ubuntu from 192.168.3.135 port 35520 ssh2
+2026-09-17T05:00:30.989834-04:00 ubuntu-VMware20-1 sshd-session[90652]: Failed password for ubuntu from 192.168.3.135 port 35522 ssh2
+2026-09-17T05:00:31.543365-04:00 ubuntu-VMware20-1 sshd-session[90653]: Failed password for ubuntu from 192.168.3.135 port 35524 ssh2
+2026-09-17T05:00:32.995835-04:00 ubuntu-VMware20-1 sshd-session[90650]: Failed password for ubuntu from 192.168.3.135 port 35526 ssh2
+2026-09-17T05:00:34.780733-04:00 ubuntu-VMware20-1 sshd-session[90653]: Failed password for ubuntu from 192.168.3.135 port 35524 ssh2
+2026-09-17T05:00:35.114336-04:00 ubuntu-VMware20-1 sshd-session[90651]: Failed password for ubuntu from 192.168.3.135 port 35520 ssh2
+2026-09-17T05:00:35.355107-04:00 ubuntu-VMware20-1 sshd-session[90652]: Failed password for ubuntu from 192.168.3.135 port 35522 ssh2
+2026-09-17T05:00:37.557294-04:00 ubuntu-VMware20-1 sshd-session[90650]: Failed password for ubuntu from 192.168.3.135 port 35526 ssh2
+2026-09-17T05:00:37.571472-04:00 ubuntu-VMware20-1 sshd-session[90653]: Failed password for ubuntu from 192.168.3.135 port 35524 ssh2
+2026-09-17T05:00:38.403841-04:00 ubuntu-VMware20-1 sshd-session[90652]: Failed password for ubuntu from 192.168.3.135 port 35522 ssh2
+2026-09-17T05:00:58.394571-04:00 ubuntu-VMware20-1 sshd-session[90714]: Accepted publickey for ubuntu from 192.168.3.1 port 52610 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T16:30:17.776842-04:00 ubuntu-VMware20-1 sshd-session[8654]: Accepted publickey for ubuntu from 192.168.3.1 port 58611 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T16:30:46.371068-04:00 ubuntu-VMware20-1 sshd-session[8714]: Accepted publickey for ubuntu from 192.168.3.1 port 58612 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU
+2026-09-17T16:31:16.325126-04:00 ubuntu-VMware20-1 sshd-session[8767]: Accepted publickey for ubuntu from 192.168.3.1 port 58613 ssh2: ED25519 SHA256:2IqvzKgUslbGVCkcPNmmP/FJXYJe7BOT1Dgw7aYIvVU

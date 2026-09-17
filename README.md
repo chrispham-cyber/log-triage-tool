@@ -52,8 +52,9 @@ Run against `samples/auth.log` (the real hydra brute force from my SOC lab):
 
 ## Samples
 
-- `samples/auth.log` mirrors the actual brute force I ran in the SOC lab (hydra vs
-  one host, 20 tries, user `ubuntu`).
+- `samples/auth.log` is the captured auth.log from my SOC lab, including the real
+  hydra brute force (20 failed attempts against user `ubuntu` from the Kali box at
+  192.168.3.135) alongside normal key-based logins.
 - `samples/auth_compromised.log` is a small synthetic log used to exercise the
   compromise detector (failures followed by a success from the same IP).
 
